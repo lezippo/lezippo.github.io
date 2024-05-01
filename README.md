@@ -1,5 +1,7 @@
 # Hello, I'm Luigi Emanuele Zippo
 
+<img src="Assets/profilepic.png" alt="Alt text" width="300"  style="border-radius: 100px;">
+
 ## About Me
 I'm a Math student with a great interest in Machine Learning, poised to graduate in July 2024. Equipped with a solid foundation in mathematical concepts, I'm currently seeking opportunities to apply analytical skills in real-world scenarios. 
 
