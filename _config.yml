@@ -3,6 +3,6 @@ about: >
   I'm a Math student with a great interest in Machine Learning, poised to graduate in July 2024. Equipped with a solid foundation in mathematical concepts, I'm currently seeking opportunities to apply analytical skills in real-world scenarios.
   
 logo: Assets/profilepic.png
-description: text below image
+# description: text below image
 show_downloads: true 
 theme: jekyll-theme-minimal
