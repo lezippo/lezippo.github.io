@@ -1,6 +1,8 @@
 ## About Me
 I'm a Math student with a great interest in Machine Learning, poised to graduate in July 2024. Equipped with a solid foundation in mathematical concepts, I'm currently seeking opportunities to apply analytical skills in real-world scenarios. 
 
+Alfonso è bello
+
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
